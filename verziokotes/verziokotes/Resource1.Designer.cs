@@ -70,20 +70,11 @@ namespace verziokotes {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Vezetéknév.
+        ///   Looks up a localized string similar to Fájlba írás.
         /// </summary>
-        internal static string LastName {
+        internal static string Write {
             get {
-                return ResourceManager.GetString("LastName", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Keresztnév.
-        /// </summary>
-        internal static string Utónév {
-            get {
-                return ResourceManager.GetString("Utónév", resourceCulture);
+                return ResourceManager.GetString("Write", resourceCulture);
             }
         }
     }
