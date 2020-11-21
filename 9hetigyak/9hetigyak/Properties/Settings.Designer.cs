@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace UnitTestExample.Properties
+namespace _9hetigyak.Properties
 {
 
 
