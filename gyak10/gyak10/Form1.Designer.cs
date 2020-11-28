@@ -1,4 +1,4 @@
-﻿namespace _9hetigyak
+﻿namespace gyak10
 {
     partial class Form1
     {

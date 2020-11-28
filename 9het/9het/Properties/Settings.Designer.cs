@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace _9hetigyak.Properties
+namespace _9het.Properties
 {
 
 
